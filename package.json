@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/uszilard/Notes.git"
+    "url": "git+https://github.com/uszilard/Note-Taker.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/uszilard/Notes/issues"
+    "url": "https://github.com/uszilard/Note-Taker/issues"
   },
-  "homepage": "https://github.com/uszilard/Notes#readme",
+  "homepage": "https://github.com/uszilard/Note-Taker#readme",
   "dependencies": {
     "express": "^4.17.1"
   },
