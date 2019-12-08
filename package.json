@@ -1,5 +1,5 @@
 {
-  "name": "02-homework",
+  "name": "note-taker",
   "version": "1.0.0",
   "description": "## Description",
   "main": "index.js",
@@ -7,18 +7,20 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/uszilard/Note-Taker.git"
   },
-  "author": "",
-  "license": "ISC",
+  "keywords": [],
   "bugs": {
     "url": "https://github.com/uszilard/Note-Taker/issues"
   },
-  "homepage": "https://github.com/uszilard/Note-Taker#readme",
-  "dependencies": {
-    "express": "^4.17.1"
-  },
-  "keywords": []
+  "homepage": "https://github.com/uszilard/Note-Taker#readme"
 }
