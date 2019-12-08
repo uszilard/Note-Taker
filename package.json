@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/snufka/Notes.git"
+    "url": "git+https://github.com/uszilard/Notes.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/snufka/Notes/issues"
+    "url": "https://github.com/uszilard/Notes/issues"
   },
-  "homepage": "https://github.com/snufka/Notes#readme",
+  "homepage": "https://github.com/uszilard/Notes#readme",
   "dependencies": {
     "express": "^4.17.1"
   },
